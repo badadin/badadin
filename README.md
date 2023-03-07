@@ -1,5 +1,7 @@
 ### Hi there 👋
 ### My name is Rinat and I'm a professional Android developer since 2016 🤓📱
+
+#### I've worked for a lot of cool companies, but I also have my own projects.
 #### Some of my personal apps on markets:
 
  - Money Control:
